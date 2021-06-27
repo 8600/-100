@@ -1,0 +1,335 @@
+<template lang="pug">
+.page-1
+  img.so.so-0(src="@|239.png|")
+  img.so.so-1(src="@|364.png|")
+  .so.so-2
+    img.so.so-3(src="@|14.png|")
+    img.so.so-4(src="@|312.png|")
+  //- 党委发展历程
+  .so.so-5
+    img.so.so-6(src="@|316.png|")
+    img.so.so-7(src="@|313.png|")
+    img.so.so-8(src="@|314.png|")
+    img.so.so-9(src="@|19.png|")
+    .fzlc 党的一百年，是矢志践行初心使命的一百年，是筚路蓝缕奠基立业的一百年，是创造辉煌开辟未来的一百年。为喜迎七一，易车公司推出“百年礼赞庆华诞·丹心颂党谱新篇”七一特别专题。
+    .show-more
+      a(href="#") > 查看更多
+  //- 主题建党活动
+  .so.so-10
+    img.so.so-11(src="@|356.png|")
+    img.so.so-12(src="@|37.png|")
+    img.so.so-13(src="@|358.png|")
+    ul.news-list
+      li.clear
+        .left.fl
+          img(src="@|show-1.png|")
+        .right.fr
+          h2 党员发展大会
+          p 党员发表大会的文字简介党员发表大会的文字简介
+          .show-more
+            a(href="#") > 查看更多
+      li.clear
+        .left.fl
+          img(src="@|show-1.png|")
+        .right.fr
+          h2 党员发展大会
+          p 党员发表大会的文字简介党员发表大会的文字简介
+          .show-more
+            a(href="#") > 查看更多
+      li.clear
+        .left.fl
+          img(src="@|show-1.png|")
+        .right.fr
+          h2 党员发展大会
+          p 党员发表大会的文字简介党员发表大会的文字简介
+          .show-more
+            a(href="#") > 查看更多
+  .so.so-14
+    img.so.so-15(src="@|113.png|")
+    img.so.so-16(src="@|112.png|")
+    img.so.so-17(src="@|360.png|")
+    .video-list
+      .video-item
+        video(src="https://cunchu.site/show/mp4/dandelion.mp4" poster="@|people.png|" controls)
+        span 党员干部
+      .video-item
+        video(src="https://cunchu.site/show/mp4/dandelion.mp4" poster="@|people.png|" controls)
+        span 党员干部
+      .video-item
+        video(src="https://cunchu.site/show/mp4/dandelion.mp4" poster="@|people.png|" controls)
+        span 党员干部
+  .so.so-18
+    img.so.so-19(src="@|76.png|")
+    img.so.so-20(src="@|75.png|")
+    img.so.so-21(src="@|362.png|")
+    ul.news-list
+      li.clear
+        .left.fl
+          img(src="@|show-1.png|")
+        .right.fr
+          h2 党员发展大会
+          p 党员发表大会的文字简介党员发表大会的文字简介
+          .show-more
+            a(href="#") > 查看更多
+      li.clear
+        .left.fl
+          img(src="@|show-1.png|")
+        .right.fr
+          h2 党员发展大会
+          p 党员发表大会的文字简介党员发表大会的文字简介
+          .show-more
+            a(href="#") > 查看更多
+      li.clear
+        .left.fl
+          img(src="@|show-1.png|")
+        .right.fr
+          h2 党员发展大会
+          p 党员发表大会的文字简介党员发表大会的文字简介
+          .show-more
+            a(href="#") > 查看更多
+      li.clear
+        .left.fl
+          img(src="@|show-1.png|")
+        .right.fr
+          h2 党员发展大会
+          p 党员发表大会的文字简介党员发表大会的文字简介
+          .show-more
+            a(href="#") > 查看更多
+      li.clear
+        .left.fl
+          img(src="@|show-1.png|")
+        .right.fr
+          h2 党员发展大会
+          p 党员发表大会的文字简介党员发表大会的文字简介
+          .show-more
+            a(href="#") > 查看更多
+      li.clear
+        .left.fl
+          img(src="@|show-1.png|")
+        .right.fr
+          h2 党员发展大会
+          p 党员发表大会的文字简介党员发表大会的文字简介
+          .show-more
+            a(href="#") > 查看更多
+  //- 背景图
+  img.so.so-22(src="@|15.jpg|")
+</template>
+
+<script>
+  module.exports = {
+    created: function () {
+
+    }
+  }
+</script>
+
+
+<style lang="less">
+.so {
+  position: absolute;
+}
+.so-0 {
+  left: 48px;
+  top: 671px;
+  z-index: 7;
+}
+.so-1 {
+  left: 426px;
+  top: 1244px;
+  z-index: 6;
+}
+.so-2 {
+  left: 73px;
+  top: 1359px;
+  width: 930px;
+  height: 314px;
+  z-index: 5;;
+}
+.so-3 {
+  left: 0px;
+  top: 141px;
+  z-index: 4;
+}
+.so-4 {
+  left: 8px;
+  top: 0px;
+  z-index: 3;
+}
+.so-5 {
+  left: 0px;
+  top: 1720px;
+  width: 1080px;
+  height: 736px;
+  z-index: 2;;
+}
+.so-6 {
+  left: 198px;
+  top: 283px;
+  z-index: 1;
+}
+.so-7 {
+  left: 331px;
+  top: 210px;
+  z-index: 0;
+}
+.so-8 {
+  left: 254px;
+  top: 83px;
+  z-index: -1;
+}
+.so-9 {
+  left: 0px;
+  top: 0px;
+  z-index: -2;
+}
+.so-10 {
+  left: 0px;
+  top: 2488px;
+  width: 1080px;
+  height: 1148px;
+  z-index: 3;
+}
+.so-11 {
+  left: 353px;
+  top: 211px;
+  z-index: -4;
+}
+.so-12 {
+  left: 255px;
+  top: 84px;
+  z-index: -5;
+}
+.so-13 {
+  left: 0px;
+  top: 0px;
+  z-index: -6;
+}
+.so-14 {
+  left: 0px;
+  top: 3677px;
+  width: 1080px;
+  height: 732px;
+  z-index: 7;
+}
+.so-15 {
+  left: 353px;
+  top: 209px;
+  z-index: -8;
+}
+.so-16 {
+  left: 254px;
+  top: 83px;
+  z-index: -9;
+}
+.so-17 {
+  left: 0px;
+  top: 0px;
+  z-index: -10;
+}
+.so-18 {
+  left: 0px;
+  top: 4438px;
+  width: 1080px;
+  height: 1162px;
+  z-index: 11;
+}
+.so-19 {
+  left: 353px;
+  top: 211px;
+  z-index: -12;
+}
+.so-20 {
+  left: 253px;
+  top: 84px;
+  z-index: -13;
+}
+.so-21 {
+  left: 0px;
+  top: 0px;
+  z-index: -14;
+}
+.so-22 {
+  left: 0px;
+  top: 0px;
+  z-index: -15;
+}
+.fzlc {
+  color: #efc88d;
+  font-size: 39px;
+  width: 70%;
+  margin: 0 auto;
+  margin-top: 315px;
+  line-height: 1.6;
+  text-indent: 2em;
+}
+.show-more a {
+  color: #efc88d;
+}
+.show-more {
+  color: #efc88d;
+  font-size: 36px;
+  position: absolute;
+  right: 41vw;
+  bottom: 16vw;
+}
+.news-list {
+  width: 74%;
+  margin: 0 auto;
+  margin-top: 86vw;
+  height: 740px;
+  overflow: auto;
+  a {
+    display: block;
+  }
+  li {
+    position: relative;
+    height: 220px;
+    border-bottom: 4px solid #810000;
+    margin-bottom: 30px;
+  }
+  .left {
+    width: 286px;
+    float: left;
+  }
+  .right {
+    width: 470px;
+    float: right;
+  }
+  h2 {
+    color: #efc88d;
+    font-size: 46px;
+    line-height: 52px;
+    margin-bottom: 14px;
+  }
+  p {
+    font-size: 34px;
+    color: #efc88d;
+    line-height: 50px;
+  }
+  .show-more {
+    right: 10px;
+    bottom: 10px;
+    font-size: 30px;
+  }
+}
+.video-list {
+  display: flex;
+  width: 78%;
+  margin: 0 auto;
+  margin-top: 320px;
+  .video-item {
+    width: 33.33%;
+  }
+  video {
+    width: 100%;
+    height: 210px;
+  }
+  span {
+    color: #efc88d;
+    display: block;
+    text-align: center;
+    font-size: 34px;
+    line-height: 56px;
+  }
+}
+</style>
