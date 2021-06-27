@@ -118,7 +118,7 @@
 <script>
   module.exports = {
     created: function () {
-
+      owo.animate('zoomIn', this.query('.so-0'), 800)
     }
   }
 </script>
